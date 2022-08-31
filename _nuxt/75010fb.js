@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[250],{1064:function(p,e,a){"use strict";a.r(e);var n=function(){var i=this,v=i._self._c;return v("LazyCommonBusinessOverview")},r=[],s={name:"DashboardHome",data:function(){return{title:"Dashboard",value:[423,446,675,510,590,610,760]}}},t=s,o=a(50),l=Object(o.a)(t,n,r,!1,null,null,null),c=e.default=l.exports}}]);
